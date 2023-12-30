@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexlucan3
 - 👀 I’m interested in web development and embedded C also MATLAB, JavaScript , ReactJS
 - 🌱 I’m currently learning many programming languages .
-- 💞️ I’m looking for a job as a Software Dev / QA engineer / Embedded C Dev / Python Dev / ABAP Dev  or any job related to my description.
+- 💞️ I’m looking for a job as a Software Dev / QA engineer / Embedded C Dev / Python Dev / ABAP Dev / Network Engineer or any job related to my description.
 - 📫 How to reach me : https://www.linkedin.com/in/alexandru-valentin-lucan-31689521b/
